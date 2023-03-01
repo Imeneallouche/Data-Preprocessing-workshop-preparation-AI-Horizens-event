@@ -5,7 +5,7 @@ This is the repository in which I have put all the resources: slides, PDFs, and 
 
 
 ```yaml
-Type: Game
+Type: Workshop
 
 Theme: Data Preprocessing and its steps
 
